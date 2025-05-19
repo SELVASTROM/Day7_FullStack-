@@ -1,19 +1,28 @@
-# Full Stack Developer Day 7 Practice
+# Day7_FullStack
 
 ## Description
-This repository contains practice exercises and code snippets from Day 7 of my 45-Day Full Stack Developer Challenge.  
-The exercises focus on core frontend development concepts including HTML structure, CSS styling, and JavaScript fundamentals.  
-This practice helps build a strong foundation for developing interactive and responsive web applications.
+This repository contains practice programs and exercises completed on Day 7 of my Full Stack Developer 45-Day Challenge.
 
-## Contents
-- Practice programs in Java,MYSQL HTML, CSS, and JavaScript  
-- Examples of layout design and basic interactivity
+## Features
+- Java programming exercises and projects.
+- MySQL query practice and database operations.
+- Frontend practice with HTML, CSS, and JavaScript.
+- Focus on both backend and frontend development fundamentals.
 
 ## Technologies Used
-- HTML  
-- CSS  
-- JavaScript
+- Java
+- MySQL
+- HTML5
+- CSS3
+- JavaScript (ES6)
+
+## How to Use
+- Clone the repository.
+- Run Java programs using an IDE or command line.
+- Practice MySQL queries using your preferred MySQL client.
+- Open HTML files in any modern browser to view frontend practice.
+- Review CSS and JavaScript files for styling and interactivity examples.
 
 ---
 
-*This repository is part of my ongoing journey to master full stack development.*
+🚀 Working on a Full Stack Developer 45-Day Challenge
